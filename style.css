@@ -1,0 +1,298 @@
+body {
+  background-color: black;
+  color: white;
+  margin: 0;
+  font-family: "Roboto Mono", monospace;
+}
+
+.container {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100vh;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.text {
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.textclass {
+  color: red;
+}
+
+.textclass1{
+  color: rgb(39, 236, 55);
+}
+
+
+.t3 {
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: type 2s steps(19, end);
+  border-right: 8px solid rgb(2, 2, 2);
+  animation-fill-mode: both;
+  animation-delay: 2s;
+}
+
+.t4 {
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: type 2s steps(19, end);
+  border-right: 8px solid rgb(2, 2, 2);
+  animation-fill-mode: both;
+  animation-delay: 4s;
+}
+
+.t5{
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: type 4s steps(19, end);
+  border-right: 8px solid rgb(2, 2, 2);
+  animation-fill-mode: both;
+  animation-delay: 6s;
+}
+
+.t6 {
+  color: blue !important;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: type 2s steps(19, end);
+  border-right: 8px solid rgb(2, 2, 2);
+  animation-fill-mode: both;
+  animation-delay: 9s;
+}
+
+
+.t7{
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: type 2s steps(19, end);
+  border-right: 8px solid rgb(2, 2, 2);
+  animation-fill-mode: both;
+  animation-delay: 12s;
+}
+
+.t8 {
+  color: rgb(245, 245, 250) !important;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: type 2s steps(19, end);
+  border-right: 8px solid rgb(2, 2, 2);
+  animation-fill-mode: both;
+  animation-delay: 15s;
+}
+
+.t9{
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: type 2s steps(19, end);
+  border-right: 8px solid rgb(2, 2, 2);
+  animation-fill-mode: both;
+  animation-delay: 18s;
+}
+
+.t10 {
+  color: rgb(39, 236, 55) !important;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: type 2s steps(19, end);
+  border-right: 8px solid rgb(2, 2, 2);
+  animation-fill-mode: both;
+  animation-delay: 21s;
+}
+
+.t11 {
+  color: rgb(39, 236, 55) !important;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: type 2s steps(19, end);
+  border-right: 8px solid rgb(2, 2, 2);
+  animation-fill-mode: both;
+  animation-delay: 23s;
+}
+
+.t12 {
+  color: rgb(39, 236, 55) !important;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: type 2s steps(19, end);
+  border-right: 8px solid rgb(2, 2, 2);
+  animation-fill-mode: both;
+  animation-delay: 24s;
+}
+
+.t13 {
+  color: rgb(39, 236, 55) !important;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: type 2s steps(19, end);
+  border-right: 8px solid rgb(2, 2, 2);
+  animation-fill-mode: both;
+  animation-delay: 25s;
+}
+
+
+
+.t14 {
+  color: rgb(39, 236, 55) !important;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: type 2s steps(19, end);
+  border-right: 8px solid rgb(2, 2, 2);
+  animation-fill-mode: both;
+  animation-delay: 26s;
+}
+
+.t15{
+  color: rgb(39, 236, 55) !important;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: type 2s steps(19, end);
+  border-right: 8px solid rgb(2, 2, 2);
+  animation-fill-mode: both;
+  animation-delay: 27s;
+}
+
+.t16 {
+  color: rgb(39, 236, 55) !important;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: type 2s steps(19, end);
+  border-right: 8px solid rgb(2, 2, 2);
+  animation-fill-mode: both;
+  animation-delay: 28s;
+}
+
+
+
+.t17 {
+  color: rgb(39, 236, 55) !important;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: type 2s steps(19, end);
+  border-right: 8px solid rgb(2, 2, 2);
+  animation-fill-mode: both;
+  animation-delay: 29s;
+}
+
+.t18{
+  color: rgb(39, 236, 55) !important;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: type 2s steps(19, end);
+  border-right: 8px solid rgb(2, 2, 2);
+  animation-fill-mode: both;
+  animation-delay: 30s;
+}
+
+
+
+.t19{
+  color: rgb(39, 236, 55) !important;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: type 2s steps(19, end);
+  border-right: 8px solid rgb(2, 2, 2);
+  animation-fill-mode: both;
+  animation-delay: 31s;
+}
+
+.t20{
+  color: rgb(39, 236, 55) !important;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: type 2s steps(19, end);
+  border-right: 8px solid rgb(2, 2, 2);
+  animation-fill-mode: both;
+  animation-delay: 32s;
+}
+
+.t21{
+  color: rgb(39, 236, 55) !important;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: type 2s steps(19, end);
+  border-right: 8px solid rgb(2, 2, 2);
+  animation-fill-mode: both;
+  animation-delay: 33s;
+}
+
+.t22{
+  color: rgb(39, 236, 55) !important;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: type 2s steps(19, end);
+  border-right: 8px solid rgb(2, 2, 2);
+  animation-fill-mode: both;
+  animation-delay: 34.3s;
+}
+
+
+
+
+.t1:active {
+  border-right: 8px solid transparent;
+}
+
+@keyframes type {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 100%;
+  }
+}
+
+@keyframes curser {
+  0% {
+    border-color: transparent;
+  }
+  50% {
+    border-color: white;
+  }
+  100% {
+    border-color: transparent;
+  }
+}
+
+@keyframes curser1 {
+  0% {
+    border-color: transparent;
+  }
+  50% {
+    border-color: white;
+  }
+  100% {
+    border-color: transparent;
+  }
+}
+
+
+
+
